@@ -24,7 +24,7 @@
       "BG_BASE_PRIMARY": [ "#24232b" ],
       "BACKGROUND_SECONDARY": [ "#4200ff" ],
       "CARD_SECONDARY_BG": [ "#2B2833" ],
-      "BG_BASE_SECONDARY": [ "#1c1b22" ],
+      "BG_BASE_SECONDARY": [ "#4200ff" ],
       "BACKGROUND_SECONDARY_ALT": [ "#3700ff" ],
       "BACKGROUND_TERTIARY": [ "#202028" ],
       "BG_BASE_TERTIARY": [ "#2e00b1" ],
